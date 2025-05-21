@@ -1,0 +1,7 @@
+gymnasium_robotics
+stable-baselines3
+torch
+mujoco
+torch
+matplotlib
+imageio
